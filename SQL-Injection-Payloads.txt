@@ -1,10 +1,8 @@
 or%201=1
 cmd
 attack
-%27
 ?%27%20OR%20%271
 %27%27%27%27%27%27%27%27%27%27%27%27%27UNION%20SELECT%20%272
-('
 ' or ''-'
 ' or '' '
 ' or ''&'
@@ -738,7 +736,4 @@ CONCAT
 version%28,user(
 user%28,system_user(
 (,%28,)
-%29
-@
-%40
 cast
